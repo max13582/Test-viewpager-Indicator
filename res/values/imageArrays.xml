@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="image">
+        <item >@drawable/ic_2015_04_29_00008</item>
+        <item >@drawable/ic_2015_04_10_00021</item>
+        <item >@drawable/ic_2015_03_31_00003</item>
+    </integer-array>
+    
+</resources>
